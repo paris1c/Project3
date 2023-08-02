@@ -1,4 +1,4 @@
-# Project3 \
+# Project3 
 
 See the project on the following Links: \
 https://fennypatel02.github.io/Project-3/index.html \
